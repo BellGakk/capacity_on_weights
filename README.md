@@ -1,1 +1,1 @@
-# large_width
+# Capacity regularization for adversarial robustness
